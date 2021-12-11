@@ -4,4 +4,5 @@
 # Ignore Gradle build output directory
 build
 
+# Ignore macos file structure
 .DS_Store
